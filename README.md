@@ -1,5 +1,5 @@
 # Amazon Seller Performance Audit Dashboard
-A Power BI dashboard analysing Amazon seller performance, identifying wasted ad spend and scaling opportunities.
+### A Power BI dashboard analysing Amazon seller performance, identifying wasted ad spend and scaling opportunities.
 
 I built this project to analyse e-commerce and Amazon-style advertising data, with the goal of identifying wasted spend, uncovering scaling opportunities, and improving overall profitability.
 
