@@ -1,0 +1,101 @@
+product_id,product_name,category,tier,selling_price,unit_cost,base_margin_pct,base_daily_units,ad_strategy,base_ctr,base_conversion,base_cpc,seasonality_strength
+SKU001,LED Mirror Pro,Beauty,Mid,41.7,24.77,0.406,2.8,Average,0.0263,0.0514,0.83,0.064
+SKU002,Scalp Massager Plus,Beauty,Budget,10.57,6.8,0.3567,10.3,Average,0.0245,0.1218,0.3,0.123
+SKU003,Wireless Charger Max,Electronics,Mid,23.53,12.64,0.4628,3.36,Efficient,0.0528,0.1748,1.0,0.126
+SKU004,Dog Toy Max,Pet Supplies,Budget,17.57,9.43,0.4633,14.0,Efficient,0.0288,0.0573,0.94,0.156
+SKU005,Foam Roller Lite,Fitness,Premium,128.64,54.18,0.5788,4.08,Average,0.0516,0.0433,0.36,0.061
+SKU006,Treat Pouch Lite,Pet Supplies,Budget,19.6,12.25,0.375,7.37,Average,0.0181,0.1503,0.23,0.297
+SKU007,Air Fryer Liner Pro,Home & Kitchen,Budget,17.96,8.5,0.5267,11.27,Underinvested,0.04,0.1672,1.04,0.162
+SKU008,LED Lamp Lite,Home & Kitchen,Mid,43.04,18.92,0.5604,5.78,Efficient,0.0427,0.1441,0.74,0.243
+SKU009,USB Hub Plus,Electronics,Budget,9.51,7.03,0.2608,11.64,Average,0.0339,0.1661,0.41,0.153
+SKU010,Laptop Sleeve Max,Electronics,Premium,111.89,56.71,0.4932,4.02,Average,0.0247,0.0458,0.63,0.105
+SKU011,Scalp Massager Pro,Beauty,Budget,9.71,6.07,0.3749,14.88,Average,0.0399,0.0301,0.52,0.126
+SKU012,USB Hub Lite,Electronics,Mid,30.89,20.53,0.3354,3.35,Efficient,0.036,0.0906,0.22,0.113
+SKU013,Scalp Massager Plus,Beauty,Mid,26.89,10.78,0.5991,4.13,Underinvested,0.0297,0.035,0.51,0.209
+SKU014,Skipping Rope Max,Fitness,Budget,15.74,8.54,0.4574,4.97,Average,0.0224,0.1505,0.64,0.296
+SKU015,Mini Projector Basic,Electronics,Budget,15.11,7.65,0.4937,14.3,Average,0.0215,0.1367,1.0,0.137
+SKU016,Face Serum Basic,Beauty,Budget,15.25,6.97,0.543,12.11,Wasteful,0.021,0.1112,0.88,0.107
+SKU017,Massage Ball Basic,Fitness,Mid,30.61,12.28,0.5988,9.72,Average,0.05,0.0583,0.44,0.225
+SKU018,Wireless Charger Basic,Electronics,Mid,24.78,17.18,0.3067,9.19,Average,0.0124,0.0452,0.85,0.051
+SKU019,Yoga Mat Pro,Fitness,Mid,29.4,14.72,0.4993,3.9,Average,0.0441,0.1274,1.04,0.214
+SKU020,LED Lamp Max,Home & Kitchen,Mid,43.0,28.48,0.3377,6.72,Underinvested,0.0329,0.1659,0.61,0.138
+SKU021,Air Fryer Liner Basic,Home & Kitchen,Budget,18.11,11.8,0.3484,4.29,Average,0.0196,0.1711,1.15,0.279
+SKU022,Wireless Charger Basic,Electronics,Premium,86.42,48.1,0.4434,2.79,Underinvested,0.0152,0.0759,0.35,0.117
+SKU023,Webcam Cover Plus,Electronics,Mid,52.89,26.78,0.4937,6.56,Efficient,0.0384,0.1785,0.3,0.18
+SKU024,Yoga Mat Basic,Fitness,Mid,26.51,13.3,0.4983,6.42,Average,0.0301,0.0684,0.79,0.07
+SKU025,Air Fryer Liner Lite,Home & Kitchen,Budget,8.99,5.49,0.3893,4.61,Underinvested,0.0132,0.1168,0.61,0.218
+SKU026,USB Hub Plus,Electronics,Mid,31.46,17.09,0.4568,2.24,Efficient,0.0474,0.084,0.28,0.181
+SKU027,Lint Roller Max,Pet Supplies,Premium,98.44,44.82,0.5447,1.28,Average,0.0421,0.0508,0.29,0.292
+SKU028,Ankle Weights Pro,Fitness,Mid,30.94,18.45,0.4037,2.63,Efficient,0.0534,0.1554,0.88,0.152
+SKU029,Yoga Mat Basic,Fitness,Budget,11.36,8.15,0.2826,6.19,Underinvested,0.0394,0.1075,0.84,0.159
+SKU030,Harness Pro,Pet Supplies,Budget,12.98,6.29,0.5154,4.17,Efficient,0.014,0.0361,1.05,0.226
+SKU031,Travel Bottle Set Plus,Beauty,Mid,48.63,30.58,0.3712,5.72,Average,0.0141,0.1724,1.08,0.115
+SKU032,Yoga Mat Pro,Fitness,Mid,50.26,26.11,0.4805,3.3,Efficient,0.0396,0.034,0.77,0.285
+SKU033,Hair Brush Pro,Beauty,Mid,37.12,20.75,0.441,9.53,Average,0.0533,0.1658,0.36,0.067
+SKU034,Skipping Rope Pro,Fitness,Mid,33.11,17.23,0.4796,5.08,Wasteful,0.0266,0.0691,0.67,0.223
+SKU035,Skipping Rope Pro,Fitness,Premium,124.83,58.52,0.5312,1.63,Efficient,0.0443,0.151,1.19,0.153
+SKU036,Resistance Band Lite,Fitness,Budget,17.52,8.6,0.5091,6.86,Average,0.035,0.1045,0.56,0.124
+SKU037,USB Hub Max,Electronics,Budget,20.68,14.85,0.2819,7.83,Underinvested,0.0529,0.116,0.81,0.162
+SKU038,Wireless Charger Basic,Electronics,Mid,29.02,12.15,0.5813,8.25,Efficient,0.052,0.1761,1.2,0.064
+SKU039,Mini Projector Lite,Electronics,Budget,9.64,6.75,0.2998,13.14,Average,0.0163,0.0426,0.89,0.068
+SKU040,Protein Shaker Plus,Fitness,Budget,15.19,10.15,0.3318,10.98,Underinvested,0.0499,0.0655,1.1,0.198
+SKU041,Scalp Massager Max,Beauty,Budget,18.88,10.47,0.4454,9.09,Underinvested,0.0168,0.1039,0.16,0.167
+SKU042,Foam Roller Max,Fitness,Mid,49.15,24.06,0.5105,7.45,Efficient,0.0292,0.1017,0.24,0.182
+SKU043,Training Pads Plus,Pet Supplies,Budget,21.58,15.86,0.2651,14.69,Average,0.0547,0.0411,0.73,0.292
+SKU044,Gym Gloves Basic,Fitness,Budget,12.12,4.87,0.5982,12.36,Average,0.0437,0.1673,1.16,0.064
+SKU045,Travel Bottle Set Max,Beauty,Budget,10.38,5.43,0.4769,8.66,Efficient,0.0234,0.0841,0.42,0.163
+SKU046,Storage Basket Basic,Home & Kitchen,Budget,16.44,10.77,0.3449,5.6,Efficient,0.0524,0.0925,0.76,0.28
+SKU047,Massage Ball Plus,Fitness,Mid,27.44,16.63,0.394,8.22,Average,0.0544,0.0865,0.94,0.148
+SKU048,Phone Stand Basic,Electronics,Mid,37.47,22.66,0.3952,4.19,Efficient,0.0492,0.1519,1.2,0.299
+SKU049,Harness Lite,Pet Supplies,Mid,46.98,29.02,0.3823,3.93,Efficient,0.0228,0.0712,0.37,0.27
+SKU050,Foam Roller Plus,Fitness,Mid,37.71,17.31,0.541,4.46,Wasteful,0.0536,0.0433,0.98,0.197
+SKU051,Pet Blanket Plus,Pet Supplies,Mid,51.8,27.66,0.466,9.84,Average,0.0394,0.1132,0.25,0.232
+SKU052,Food Container Basic,Home & Kitchen,Mid,35.09,18.68,0.4677,8.9,Underinvested,0.0183,0.169,0.67,0.115
+SKU053,Dog Toy Lite,Pet Supplies,Budget,10.93,5.98,0.4529,8.1,Average,0.0318,0.1177,0.57,0.224
+SKU054,Travel Bottle Set Max,Beauty,Budget,20.56,12.01,0.4159,12.01,Efficient,0.0203,0.0361,0.33,0.12
+SKU055,Training Pads Lite,Pet Supplies,Mid,39.64,24.79,0.3746,9.15,Efficient,0.0262,0.0782,0.25,0.17
+SKU056,Mini Projector Lite,Electronics,Budget,20.16,14.52,0.2798,11.17,Underinvested,0.0351,0.1686,0.4,0.24
+SKU057,Skipping Rope Plus,Fitness,Budget,11.53,5.77,0.4996,14.74,Average,0.0349,0.0461,0.62,0.183
+SKU058,Dish Rack Lite,Home & Kitchen,Budget,15.9,7.25,0.544,5.07,Average,0.022,0.0814,0.65,0.139
+SKU059,Coffee Grinder Plus,Home & Kitchen,Budget,15.52,8.45,0.4555,12.95,Average,0.0175,0.0726,0.53,0.211
+SKU060,Protein Shaker Pro,Fitness,Premium,112.55,75.07,0.333,0.91,Efficient,0.0226,0.0541,0.35,0.121
+SKU061,Dish Rack Pro,Home & Kitchen,Mid,35.54,14.44,0.5937,2.9,Average,0.0537,0.1598,1.01,0.114
+SKU062,Desk Fan Basic,Electronics,Mid,39.66,23.13,0.4168,8.71,Efficient,0.0536,0.1366,0.36,0.234
+SKU063,Cotton Pads Basic,Beauty,Mid,31.52,17.23,0.4534,3.23,Average,0.0349,0.0378,0.5,0.084
+SKU064,Foam Roller Plus,Fitness,Budget,19.34,12.78,0.3392,12.18,Wasteful,0.0376,0.1007,0.58,0.137
+SKU065,Coffee Grinder Max,Home & Kitchen,Premium,66.81,33.02,0.5058,4.25,Efficient,0.0149,0.1412,0.75,0.26
+SKU066,USB Hub Lite,Electronics,Budget,10.29,7.13,0.3071,13.77,Wasteful,0.0345,0.0838,1.07,0.148
+SKU067,Laptop Sleeve Basic,Electronics,Mid,38.59,25.81,0.3312,9.2,Average,0.0354,0.166,0.81,0.079
+SKU068,Mini Projector Pro,Electronics,Budget,9.95,4.7,0.5276,11.44,Average,0.0504,0.1483,0.31,0.128
+SKU069,Cat Brush Basic,Pet Supplies,Budget,15.98,7.72,0.5169,14.52,Average,0.0473,0.0466,1.04,0.082
+SKU070,Treat Pouch Lite,Pet Supplies,Mid,35.5,17.03,0.5203,2.1,Average,0.0363,0.1374,0.78,0.257
+SKU071,Massage Ball Plus,Fitness,Premium,69.57,37.9,0.4552,2.52,Average,0.0128,0.1608,1.13,0.191
+SKU072,LED Mirror Lite,Beauty,Mid,27.03,14.82,0.4517,6.85,Average,0.0437,0.1702,1.12,0.163
+SKU073,Pet Blanket Plus,Pet Supplies,Mid,26.11,11.17,0.5722,8.96,Average,0.0374,0.0899,0.21,0.134
+SKU074,Face Serum Lite,Beauty,Mid,25.77,15.59,0.395,8.91,Underinvested,0.032,0.1021,1.11,0.197
+SKU075,Wireless Charger Pro,Electronics,Budget,10.47,6.03,0.4241,9.03,Underinvested,0.0276,0.1171,0.81,0.053
+SKU076,Pet Bowl Basic,Pet Supplies,Premium,69.12,41.81,0.3951,0.84,Underinvested,0.0336,0.1193,0.22,0.237
+SKU077,Webcam Cover Pro,Electronics,Budget,14.56,7.74,0.4684,8.53,Wasteful,0.0373,0.0741,0.9,0.182
+SKU078,Face Serum Plus,Beauty,Mid,47.26,33.74,0.2861,4.67,Efficient,0.0444,0.0708,1.09,0.182
+SKU079,Dish Rack Max,Home & Kitchen,Mid,50.61,30.73,0.3928,6.41,Average,0.0204,0.1058,0.77,0.135
+SKU080,Cat Brush Pro,Pet Supplies,Mid,29.86,21.36,0.2847,3.95,Wasteful,0.0488,0.1545,0.57,0.217
+SKU081,Training Pads Plus,Pet Supplies,Budget,9.2,6.23,0.3228,4.32,Efficient,0.0371,0.0932,1.09,0.254
+SKU082,Makeup Organiser Plus,Beauty,Mid,33.98,25.08,0.2619,8.65,Average,0.0453,0.0844,1.05,0.105
+SKU083,Ankle Weights Max,Fitness,Budget,20.16,11.68,0.4206,14.73,Wasteful,0.0303,0.0334,0.43,0.185
+SKU084,Pet Bowl Basic,Pet Supplies,Budget,19.69,7.98,0.5947,10.31,Efficient,0.0237,0.0328,1.11,0.079
+SKU085,Face Serum Plus,Beauty,Mid,43.5,19.99,0.5405,3.65,Efficient,0.0179,0.165,1.07,0.199
+SKU086,LED Mirror Basic,Beauty,Mid,40.92,18.69,0.5433,5.24,Wasteful,0.0301,0.0831,1.16,0.096
+SKU087,Lint Roller Pro,Pet Supplies,Budget,13.45,8.73,0.3509,8.27,Wasteful,0.0248,0.115,0.65,0.216
+SKU088,Treat Pouch Basic,Pet Supplies,Budget,15.56,10.79,0.3066,14.1,Wasteful,0.0531,0.0532,0.8,0.169
+SKU089,Storage Basket Basic,Home & Kitchen,Budget,17.87,9.66,0.4594,9.52,Efficient,0.0153,0.0304,1.17,0.051
+SKU090,Makeup Organiser Lite,Beauty,Budget,20.84,14.63,0.298,15.4,Average,0.02,0.1113,1.07,0.233
+SKU091,Pet Bowl Lite,Pet Supplies,Mid,50.02,33.14,0.3375,5.92,Efficient,0.0545,0.1716,0.19,0.226
+SKU092,Dish Rack Plus,Home & Kitchen,Mid,52.21,38.54,0.2618,7.58,Average,0.0517,0.1757,1.14,0.169
+SKU093,Cotton Pads Pro,Beauty,Budget,19.6,14.45,0.2628,11.16,Efficient,0.0172,0.0415,0.88,0.135
+SKU094,Cotton Pads Basic,Beauty,Mid,43.83,21.55,0.5083,6.16,Average,0.0497,0.0926,0.64,0.298
+SKU095,Mini Projector Lite,Electronics,Mid,52.99,24.93,0.5295,9.98,Average,0.045,0.0903,0.65,0.207
+SKU096,Cotton Pads Basic,Beauty,Mid,35.79,21.56,0.3976,7.9,Efficient,0.0168,0.0832,0.45,0.124
+SKU097,Pet Bowl Basic,Pet Supplies,Premium,59.28,42.19,0.2883,2.07,Efficient,0.0531,0.1497,0.42,0.197
+SKU098,Desk Fan Lite,Electronics,Premium,125.62,91.36,0.2727,2.11,Wasteful,0.0219,0.1546,0.28,0.062
+SKU099,Knife Set Basic,Home & Kitchen,Budget,18.91,11.87,0.3723,4.69,Underinvested,0.05,0.1692,1.19,0.093
+SKU100,Protein Shaker Plus,Fitness,Mid,54.88,23.92,0.5641,5.71,Average,0.0442,0.0352,1.09,0.265
