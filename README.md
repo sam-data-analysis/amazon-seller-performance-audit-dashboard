@@ -7,7 +7,7 @@ This dashboard simulates a real-world client audit, focusing on turning data int
 
 ---
 
-## Dashboard Preview
+## Dashboard Walkthrough
 
 ### Executive Summary
 <img src="images/page1-executive-summary.png" width="900">
@@ -68,7 +68,7 @@ The focus was to replicate how a data analyst would approach a real client probl
 
 - `amazon_seller_performance_audit.pbix` – Power BI dashboard  
 - `daily_performance.csv`, `products.csv`, `sku_summary.csv` – datasets  
-- Dashboard screenshots (PNG files)  
+- Dashboard screenshots (see images folder) 
 
 ---
 
